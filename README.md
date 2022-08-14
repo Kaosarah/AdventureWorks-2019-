@@ -94,7 +94,7 @@ There were massive sales at the end of each month throughout the years except fo
 Throughout the years, Southwest of United state of America generated the highest revenue($24,184,609) making 22% of the revenue, Canada($16,355,790.45)14.9%, Northwest of USA($16,084,942)14.64/% and the least revenue was generated in Germany($4,915,407.60) making 4.47% of total sales generated.
 
 
-![image](https://user-images.githubusercontent.com/109418747/184537765-99cf3811-bd73-4aeb-9b4f-8e70fe015bdf.png
+![image](https://user-images.githubusercontent.com/109418747/184537765-99cf3811-bd73-4aeb-9b4f-8e70fe015bdf.png)
 
 ![image](https://user-images.githubusercontent.com/109418747/184537789-314fa7df-570c-4f2a-be6a-e2b15305f56f.png)
 
@@ -125,7 +125,11 @@ The organisation have 290 employees, the Production group have the highest numbe
 
 # Findings 
 The company lost #20,640,000 (-44.04% YOY Sale growthrate) in 2014.
+
 Bikes generate 86.17% of the company's revenue, Component(10.74%), Clothing(1.93%) and Accessories generated the least revenue by 1.16%.
+
+Best selling product is Mountain-200 Black, 38(Bike)
+
 Roger Harui is the best consumer throughout the years with purchase of $877,303.48.
 
 
@@ -137,6 +141,8 @@ The yearly or monthly promo of the company should be done by mid of the month as
 Awareness about the product in most european countries like France, Germany and United Kingdom should be the country priority, for instance the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
 
 Marketing should be improved for other product category aside bikes.
+
+# For interaction with dashboard, access link below.
 
 
 
