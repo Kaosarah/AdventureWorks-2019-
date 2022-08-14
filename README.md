@@ -124,7 +124,7 @@ The organisation have 290 employees, the Production group have the highest numbe
 ![image](https://user-images.githubusercontent.com/109418747/184542273-13547359-0abc-409b-a1a8-280c7d420be0.png)
 
 # Findings 
-The company lost #20,640,000 (-44.04% YOY Sale growthrate) in 2014.
+The company lost $20,640,000 (-44.04% YOY Sale growthrate) in 2014.
 
 Bikes generate 86.17% of the company's revenue, Component(10.74%), Clothing(1.93%) and Accessories generated the least revenue by 1.16%.
 
@@ -140,7 +140,7 @@ The yearly or monthly promo of the company should be done by mid of the month as
 
 Awareness about the product in most european countries like France, Germany and United Kingdom should be the country priority, for instance the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
 
-Marketing should be improved for other product category aside bikes.
+Marketing should be improved for other product categories aside bikes.
 
 # For interaction with dashboard, access link below.
 
