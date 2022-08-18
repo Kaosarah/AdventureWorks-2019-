@@ -134,11 +134,11 @@ Roger Harui is the best consumer throughout the years with purchase of $877,303.
 
 
 # Recommendation
-The company should continue with all action put in place in country with high revenue and enhance actions put in place.
+The company should continue with all action put in place in country with high revenue and foster on it.
 
 The yearly or monthly promo of the company should be done by mid of the month as there is already huge sales at the end and beginning of the month.
 
-Awareness about the product in most european countries like France, Germany and United Kingdom should be the country priority, for instance the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
+Awareness about the product in most european countries like France, Germany and United Kingdom should be the organization's priority, for instance the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
 
 Marketing should be improved for other product categories aside bikes.
 
