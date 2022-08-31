@@ -142,7 +142,8 @@ Awareness about the product in most european countries like France, Germany and 
 
 Marketing should be improved for other product categories aside bikes.
 
-# For interaction with dashboard, access link below.
+# For interaction with dashboard, click link below.
+https://www.novypro.com/project/trends-and-insights
 
 
 
