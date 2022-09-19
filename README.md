@@ -2,15 +2,18 @@
 AdventureWorks(2019) is a frictious bicycle manufacturing database designed by Microsoft. The Organization is based in Bothell, Washington and sells to other part of the world. The database contain information about Sales, Purchasing, Production, Contact management and Human resources.
 
 
-# PROJECT OBJECTIVE: 
+### PROJECT OBJECTIVE: 
 The organisation is seeking knowledge about the best product category to invest on, the growth in business revenue over the years, regions to target and avoid,best customers in each region and Organisation's employee's analysis.
 
-# Data Sourcing: 
-The data used for this analysis is accessible through this link https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak.
+### Data Sourcing: 
+The data used for this analysis is accessible [here](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
+
 The database contain 70 tables.
 
-# Data Transformation
+### Data Transformation
+
 The data were explored and cleaned  using Microsoft SQL. 
+
 #### Sales table (Fact table)
         WITH SALES AS (SELECT PP.BusinessEntityID, COALESCE (PC.CreditCardID, '10000') AS creditcard, SH.CustomerID,SH.OrderDate,SH.ShipDate,SH.SalesOrderID,
               	  SH.SubTotal, coalesce (SH.TerritoryID, 0) AS   TerritoryID,SH.SalesPersonID,SD.LineTotal,SD.UnitPrice,SD.ProductID,SD.OrderQty,SD.UnitPriceDiscount
@@ -61,7 +64,7 @@ A date table was generated using Powerquery
 
 These are the tables **(8)** needed to answer business questions.
 
-# Analysis and Insight
+### Analysis and Insight
 
 The total sales generated from 31st of May 2011 to 30th of June 2014 was $109,850,000, total cost of production was $ 63,790,000 and the gross profit generated was $46,050,000.
  
@@ -80,6 +83,7 @@ The total sales generated from 31st of May 2011 to 30th of June 2014 was $109,85
 #### SALES TREND BY DATE
 
 There were massive sales at the end of each month throughout the years except for **May and June of the year **2014**. Drastic fall in sales started from **28th of May,2014 till  30th of June 2014**.
+
 
 ![image](https://user-images.githubusercontent.com/109418747/184536887-541e880b-24d8-454e-936b-4d4bfd5e0a8c.png)
 
@@ -111,7 +115,10 @@ Throughout the years, Southwest of United state of America generated the highest
  Bikes was the highest selling product category with revenue of $94,651,173 and 90268 units ordered, Components generated $ 11,802,593 with 49044 units ordered,  Clothings generated $2,120,543 with 73670 and Accessories generated $1,272,072. Best selling product was **Mountain-200 Black, 38(Bike)** and least selling product was **LL Road Seat/Saddle**
  
  
+ 
  ![image](https://user-images.githubusercontent.com/109418747/184541446-6f5a301e-590f-43dc-b38c-129fbfdfeff3.png)
+ 
+ 
  
  ![image](https://user-images.githubusercontent.com/109418747/184541824-edeb8fe1-ac11-4504-bb58-41907acd8346.png)
  
@@ -123,7 +130,8 @@ The organisation have 290 employees, the Production group have the highest numbe
 
 ![image](https://user-images.githubusercontent.com/109418747/184542273-13547359-0abc-409b-a1a8-280c7d420be0.png)
 
-# Findings 
+
+### Findings 
 The company lost $20,640,000 (-44.04% YOY Sale growthrate) in 2014.
 
 Bikes generate 86.17% of the company's revenue, Component(10.74%), Clothing(1.93%) and Accessories generated the least revenue by 1.16%.
@@ -133,17 +141,17 @@ Best selling product is Mountain-200 Black, 38(Bike)
 Roger Harui is the best consumer throughout the years with purchase of $877,303.48.
 
 
-# Recommendation
-The company should continue with all action put in place in country with high revenue and foster on it.
+### Recommendation
+The company should continue with all actions put in place in countries with high revenue and foster on it.
 
 The yearly or monthly promo of the company should be done by mid of the month as there is already huge sales at the end and beginning of the month.
 
-Awareness about the product in most european countries like France, Germany and United Kingdom should be the organization's priority, for instance the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
+Awareness about the product in most european countries like France, Germany and United Kingdom should be the organization's priority, for instance 
+the sales in Germany increased from 2012 to 2014 by 64.58%, measures used in this country can be used across countries with least sales.
 
 Marketing should be improved for other product categories aside bikes.
 
-# For interaction with dashboard, click link below.
-https://www.novypro.com/project/trends-and-insights
+### For interaction with dashboard, click link [here](https://www.novypro.com/project/trends-and-insights).
 
 
 
